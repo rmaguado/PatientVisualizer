@@ -4,26 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="746e1430-eb1f-4d33-99f7-e33025a83a82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DoctorView/DoctorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DoctorView/PatientContainer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Patient/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Patient/PatientBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PatientTests/BP_Measurement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PatientTests/MRI_Scan.java" afterDir="false" />
+    <list default="true" id="746e1430-eb1f-4d33-99f7-e33025a83a82" name="Changes" comment="First commit, not working :(">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Patient/PatientBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Patient/PatientBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,11 +137,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701163011623</updated>
-      <workItem from="1701163012703" duration="7541000" />
+      <workItem from="1701163012703" duration="7810000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit, not working :(">
+      <option name="closed" value="true" />
+      <created>1701170747328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701170747329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit, not working :(" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit, not working :(" />
   </component>
 </project>

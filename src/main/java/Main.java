@@ -1,5 +1,5 @@
 import DoctorView.DoctorInterface;
-import Patient.Patient;
+import Patient.*;
 import PatientTests.BP_Measurement;
 
 public class Main {
